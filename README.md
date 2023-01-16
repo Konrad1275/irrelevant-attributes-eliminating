@@ -1,0 +1,1 @@
+# irrelevant-attributes-eliminating
